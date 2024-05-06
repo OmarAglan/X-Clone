@@ -2,8 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-
+:root {
+    @apply h-full bg-black;
+}
 body {
-  background-color: #000000;
-  color: #ffffff;
+    @apply h-full bg-black;
 }
