@@ -1,6 +1,7 @@
 import {BsBellFill, BsHouseFill} from "react-icons/bs";
 import {FaUser} from "react-icons/fa";
 import SidebarLogo from "./SidebarLogo";
+import SidebarItem from "@/components/Layout/SidebarItem";
 
 
 const Sidebar = () => {
@@ -27,7 +28,11 @@ const Sidebar = () => {
                 <div className={"space-y-2 md:w-[230px]"}>
                     <SidebarLogo/>
                     {Items.map((item) => (
-                        <SidebarItem {...item} key={item.label}/>
+                        <SidebarItem key={item.href}
+                                     href = {item.href}
+                                     label = {item.label}
+                                     icon = {item.icon}
+                        />
                     ))}
                 </div>
             </div>
