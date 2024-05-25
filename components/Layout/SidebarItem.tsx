@@ -5,7 +5,7 @@ interface SidebarItemProps{
     href?:string;
     onclick?:() => void;
 }
-const SideBarItem: React.FC<SidebarItemProps> =({
+const SidebarItem: React.FC<SidebarItemProps> =({
     label,
     icon:Icon,
     href,
@@ -37,4 +37,4 @@ const SideBarItem: React.FC<SidebarItemProps> =({
     )
 }
 
-export default SideBarItem
+export default SidebarItem
