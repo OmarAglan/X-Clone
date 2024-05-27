@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6ba3f22-c3c4-474a-8719-2aff1abf5588" name="Changes" comment="Sidebar Working On the Large screen and Mobile screen">
-      <change afterPath="$PROJECT_DIR$/components/Layout/Followbar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/Layout/SidebarXsButton.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Layout/Sidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Layout/Sidebar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Layout/SidebarItem.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Layout/SidebarItem.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Layout/SidebarLogo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Layout/SidebarLogo.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Layout/Followbar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Layout/Followbar.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +93,8 @@
       <workItem from="1716289906089" duration="1383000" />
       <workItem from="1716338708169" duration="4557000" />
       <workItem from="1716631442653" duration="50000" />
-      <workItem from="1716631569897" duration="4146000" />
+      <workItem from="1716631569897" duration="4845000" />
+      <workItem from="1716722318481" duration="3171000" />
     </task>
     <task id="LOCAL-00001" summary="Sidebar Items">
       <option name="closed" value="true" />
